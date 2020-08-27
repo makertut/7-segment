@@ -9,4 +9,7 @@ Arduino Pin 6 to Pin 1.
 Arduino Pin 8 to Pin 7.
 Arduino Pin 9 to Pin 6.
 GND to Pin 3 and Pin 8 each connected with 220 ohm resistors.<br>
+
+![Maker tutor 7-segment](https://2.bp.blogspot.com/-vHHqIenH6iI/WlOT9YN83YI/AAAAAAAA9b4/CVYSmUcFQxo5zCZE6cmxgP3ThWeD7bd_ACEwYBhgL/s1600/7segment_display_pinout1.gif)
+<br>
 ![Maker tutor Arduino 7-Segment counter 0-9 ](https://1.bp.blogspot.com/-_oFBcgavUWA/WlOSBB3F-SI/AAAAAAAA9bo/KLgUghhFWtktOQcEZIgyhT2I26B4lJ2dACLcBGAs/s640/7-segment-counter-button-2_bb.jpg)
